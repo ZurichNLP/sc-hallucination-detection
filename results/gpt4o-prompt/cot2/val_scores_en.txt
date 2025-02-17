@@ -1,0 +1,4 @@
+Prediction File Path: preds_v2/val/gpt4o/cot2/mushroom.en-val.v2.jsonl
+IoU: 0.30940082
+Cor: 0.36380193
+------------------------------

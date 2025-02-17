@@ -1,0 +1,12 @@
+Prediction File Path: ./preds_v2/val/gpt-consistency-paras-f/mushroom.hi-val.v2.jsonl
+IoU: 0.44126100
+Cor: 0.46048247
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-paras-f/mushroom.hi-val.v2.jsonl
+IoU: 0.42380922
+Cor: 0.43383331
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-paras-f/mushroom.hi-val.v2.jsonl
+IoU: 0.42380922
+Cor: 0.43383331
+------------------------------

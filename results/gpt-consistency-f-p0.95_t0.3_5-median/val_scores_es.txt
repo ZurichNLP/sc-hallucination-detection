@@ -1,0 +1,12 @@
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-p0.95_t0.3_5-median/mushroom.es-val.v2.jsonl
+IoU: 0.21916862
+Cor: 0.25593920
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-p0.95_t0.3_5-median/mushroom.es-val.v2.jsonl
+IoU: 0.21916862
+Cor: 0.25593920
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-p0.95_t0.3_5-median/mushroom.es-val.v2.jsonl
+IoU: 0.27683279
+Cor: 0.28073639
+------------------------------

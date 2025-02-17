@@ -1,0 +1,8 @@
+{
+    "occiglot/occiglot-7b-de-en-instruct" : {
+        "EOS" : "<|im_end|>  \n"
+    },
+    "occiglot/occiglot-7b-eu5-instruct" : {
+        "EOS" : "<|im_end|>  \n"
+    }
+}

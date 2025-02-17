@@ -1,0 +1,4 @@
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.41111020
+Cor: 0.28940614
+------------------------------

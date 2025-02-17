@@ -1,0 +1,4 @@
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-k50_p0.95_t0.1_5-median/mushroom.ar-val.v2.jsonl
+IoU: 0.38289990
+Cor: 0.22372264
+------------------------------

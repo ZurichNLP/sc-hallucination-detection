@@ -1,0 +1,68 @@
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.zh-val.v2.jsonl
+IoU: 0.43679049
+Cor: 0.19664833
+------------------------------

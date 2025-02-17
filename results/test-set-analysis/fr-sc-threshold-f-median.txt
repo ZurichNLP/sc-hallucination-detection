@@ -1,0 +1,5 @@
+croissantllm/CroissantLLMChat-v0.1: 56.51, 49
+meta-llama/Meta-Llama-3.1-8B-Instruct: 39.75, 10
+mistralai/Mistral-Nemo-Instruct-2407: 40.26, 26
+bofenghuang/vigogne-2-13b-chat: 50.56, 35
+occiglot/occiglot-7b-eu5-instruct: 37.91, 30

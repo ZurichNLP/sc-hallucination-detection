@@ -1,0 +1,1 @@
+Warning: Span '大多数纯金属都具有较强的电化学反应稳定性，这意味着它们不容易被氧化或腐蚀。然而，一些金属，如铁和铝，在特定条件下（如在潮湿环境中）可能会发生腐蚀，这是由于它们与氧气反应形成氧化物.' not found in original text starting from position 675

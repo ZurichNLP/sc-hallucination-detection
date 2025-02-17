@@ -1,0 +1,12 @@
+Prediction File Path: preds_v2/val/full-seq-as-h/mushroom.ar-val.v2.jsonl
+IoU: 0.35515531
+Cor: 0.00000000
+------------------------------
+Prediction File Path: preds_v2/val/entities_num/mushroom.ar-val.v2.jsonl
+IoU: 0.30470807
+Cor: 0.20748228
+------------------------------
+Prediction File Path: preds_v2/val/entities_num/mushroom.ar-val.v2.jsonl
+IoU: 0.30470807
+Cor: 0.20748228
+------------------------------

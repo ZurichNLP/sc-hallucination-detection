@@ -1,0 +1,4 @@
+Qwen/Qwen2-7B-Instruct: 70.91, 35
+sapienzanlp/modello-italia-9b: 67.30, 90
+meta-llama/Meta-Llama-3.1-8B-Instruct: 85.16, 11
+rstless-research/DanteLLM-7B-Instruct-Italian-v0.1: 55.26, 14

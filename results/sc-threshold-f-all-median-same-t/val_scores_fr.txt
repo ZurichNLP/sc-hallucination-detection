@@ -1,0 +1,52 @@
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.fr-val.v2.jsonl
+IoU: 0.31860840
+Cor: 0.22098419
+------------------------------

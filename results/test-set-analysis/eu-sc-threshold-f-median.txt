@@ -1,0 +1,2 @@
+meta-llama/Meta-Llama-3-8B-Instruct: 32.63, 76
+google/gemma-7b-it: 32.86, 23

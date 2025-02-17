@@ -1,0 +1,4 @@
+Prediction File Path: preds_v2/val/prob-minima/mushroom.it-val.v2.jsonl
+IoU: 0.18648878
+Cor: 0.02573854
+------------------------------

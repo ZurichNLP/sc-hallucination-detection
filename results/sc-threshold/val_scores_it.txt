@@ -1,0 +1,8 @@
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.it-val.v2.jsonl
+IoU: 0.42778027
+Cor: 0.35046547
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.it-val.v2.jsonl
+IoU: 0.42717207
+Cor: 0.35543070
+------------------------------

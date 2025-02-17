@@ -1,0 +1,12 @@
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median/mushroom.fr-val.v2.jsonl
+IoU: 0.00000000
+Cor: 0.00000000
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median/mushroom.fr-val.v2.jsonl
+IoU: 0.40563207
+Cor: 0.30665725
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median/mushroom.fr-val.v2.jsonl
+IoU: 0.34022128
+Cor: 0.24620136
+------------------------------

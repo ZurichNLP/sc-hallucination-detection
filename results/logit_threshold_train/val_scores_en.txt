@@ -1,0 +1,28 @@
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.26977580
+Cor: 0.19159775
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.26977580
+Cor: 0.19159775
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.24104839
+Cor: 0.17841746
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.24104839
+Cor: 0.17841746
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.24104839
+Cor: 0.17841746
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.26977580
+Cor: 0.19159775
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train/mushroom.en-val.v2.jsonl
+IoU: 0.24104839
+Cor: 0.17841746
+------------------------------

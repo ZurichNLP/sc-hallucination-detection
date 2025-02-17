@@ -1,0 +1,8 @@
+Prediction File Path: ./preds_v2/val/gpt-consistency-paras-f-soft_sim/mushroom.zh-val.v2.jsonl
+IoU: 0.22427667
+Cor: 0.00846081
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-paras-f-soft_sim/mushroom.zh-val.v2.jsonl
+IoU: 0.12213865
+Cor: 0.03936206
+------------------------------

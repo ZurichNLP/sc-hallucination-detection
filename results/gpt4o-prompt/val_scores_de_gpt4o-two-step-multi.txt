@@ -1,0 +1,24 @@
+Prediction File Path: ./data/preds_v2/val/gpt4o/two-step-multi/mushroom.de-val.v2.jsonl
+IoU: 0.51481792
+Cor: 0.52008613
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/two-step-multi/mushroom.de-val.v2.1.jsonl
+IoU: 0.49605145
+Cor: 0.50853795
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/two-step-multi/mushroom.de-val.v2.20241030_140338.jsonl
+IoU: 0.54881822
+Cor: 0.51444067
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/two-step-multi/mushroom.de-val.v2.20241030_140907.jsonl
+IoU: 0.53471821
+Cor: 0.52012815
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/two-step-multi/mushroom.de-val.v2.20241030_141441.jsonl
+IoU: 0.53327712
+Cor: 0.52737094
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/two-step-multi/mushroom.de-val.v2.20241030_142005.jsonl
+IoU: 0.50995548
+Cor: 0.50249685
+------------------------------

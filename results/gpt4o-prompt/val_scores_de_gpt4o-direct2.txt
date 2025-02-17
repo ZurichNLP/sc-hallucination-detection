@@ -1,0 +1,20 @@
+Prediction File Path: ./data/preds_v2/val/gpt4o/direct2/mushroom.de-val.v2.jsonl
+IoU: 0.49009390
+Cor: 0.46279345
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/direct2/mushroom.de-val.v2.20241030_140338.jsonl
+IoU: 0.42318779
+Cor: 0.41068600
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/direct2/mushroom.de-val.v2.20241030_140907.jsonl
+IoU: 0.44115965
+Cor: 0.38889656
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/direct2/mushroom.de-val.v2.20241030_141441.jsonl
+IoU: 0.42318779
+Cor: 0.42739574
+------------------------------
+Prediction File Path: ./data/preds_v2/val/gpt4o/direct2/mushroom.de-val.v2.20241030_142005.jsonl
+IoU: 0.43465729
+Cor: 0.44529446
+------------------------------

@@ -1,0 +1,1274 @@
+{
+    "de": {
+        "occiglot/occiglot-7b-de-en-instruct": 0.8257803738117218,
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.8893808682759603,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9811289638280869
+    },
+    "en": {
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9375008314847946,
+        "tiiuae/falcon-7b-instruct": 0.9093139509359995,
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.7449845025936762
+    },
+    "es": {
+        "Qwen/Qwen2-7B-Instruct": 0.9990595608949662,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.2590845326582591,
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.8233893464008967
+    },
+    "fr": {
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.6693058013916016,
+        "occiglot/occiglot-7b-eu5-instruct": 0.04876714050769806,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.7754563877979914,
+        "bofenghuang/vigogne-2-13b-chat": 0.8004796216885249,
+        "croissantllm/CroissantLLMChat-v0.1": 0.872470685839653
+    },
+    "it": {
+        "Qwen/Qwen2-7B-Instruct": 0.9690505852301915,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9769062936306,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9343930095434189,
+        "sapienzanlp/modello-italia-9b": 0.7767402609189351
+    },
+    "ar": {
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.7584639449914297,
+        "arcee-ai/Arcee-Spark": 0.7325623671213786,
+        "openchat/openchat-3.5-0106-gemma": 0.678834930062294
+    },
+    "zh": {
+        "Qwen/Qwen1.5-14B-Chat": 0.993017601966858,
+        "internlm/internlm2-chat-7b": 0.38838616013526917,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9745823711156845,
+        "01-ai/Yi-1.5-9B-Chat": 0.7767997374137242
+    },
+    "hi": {
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9798312137524287,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9486153999964396,
+        "nickmalhotra/ProjectIndus": 0.9173173745473225
+    },
+    "fi": {
+        "LumiOpen/Poro-34B-chat": 0.957383801539739,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.8542830338080724
+    },
+    "de_gpt": {
+        "occiglot/occiglot-7b-de-en-instruct": 0.9839673419793447,
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9577798147996267,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9637827237447103
+    },
+    "en_gpt": {
+        "togethercomputer/Pythia-Chat-Base-7B": 0.926439642906189,
+        "tiiuae/falcon-7b-instruct": 0.9714995622634888,
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.007559349636236826
+    },
+    "es_gpt": {
+        "Qwen/Qwen2-7B-Instruct": 0.8144632965326309,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.015927223364512126,
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.04694339483976364
+    },
+    "fr_gpt": {
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9189310282468796,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9331434716780981,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9098570133248965,
+        "bofenghuang/vigogne-2-13b-chat": 0.9476836676398913,
+        "croissantllm/CroissantLLMChat-v0.1": 0.9801218385497729
+    },
+    "it_gpt": {
+        "Qwen/Qwen2-7B-Instruct": 0.974071922302246,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9696944332122803,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.8882605981826782,
+        "sapienzanlp/modello-italia-9b": 0.9133062076568603
+    },
+    "ar_gpt": {
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9317988465229671,
+        "arcee-ai/Arcee-Spark": 0.9436242341995239,
+        "openchat/openchat-3.5-0106-gemma": 0.9512580364942551
+    },
+    "zh_gpt": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9562414069970449,
+        "internlm/internlm2-chat-7b": 0.03089029391606649,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9592686275641124,
+        "01-ai/Yi-1.5-9B-Chat": 0.9047462503115337
+    },
+    "hi_gpt": {
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.950163152317206,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9550358891487122,
+        "nickmalhotra/ProjectIndus": 0.9521088739236195
+    },
+    "fi_gpt": {
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9497287616133689,
+        "LumiOpen/Poro-34B-chat": 0.7976876248915991
+    },
+    "sv_gpt": {
+        "LumiOpen/Viking-33B": 0.816931813955307,
+        "LumiOpen/Poro-34B-chat": 0.9372375885645549,
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9300891697406769
+    },
+    "de_gpt4o-paras_a": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.34692664742469786,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9110979002714157,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9304513955116271
+    },
+    "en_gpt4o-paras_a": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.22507417559623719,
+        "tiiuae/falcon-7b-instruct": 0.2833231604099274,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9385036587715149
+    },
+    "fi_gpt4o-paras_a": {
+        "LumiOpen/Poro-34B-chat": 0.09358936786651612,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.33662601590156555
+    },
+    "sv_gpt4o-paras_a": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.2506340342760086,
+        "LumiOpen/Poro-34B-chat": 0.09358936786651612,
+        "LumiOpen/Viking-33B": 0.10616786360740661
+    },
+    "fr_gpt4o-paras_a": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9710350859165192,
+        "bofenghuang/vigogne-2-13b-chat": 0.24425389409065246,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.05644714415073395,
+        "occiglot/occiglot-7b-eu5-instruct": 0.49467312812805175,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.21970685005187987
+    },
+    "ar_gpt4o-paras_a": {
+        "openchat/openchat-3.5-0106-gemma": 0.10565253674983978,
+        "arcee-ai/Arcee-Spark": 0.21294704735279082,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.3923479306697846
+    },
+    "zh_gpt4o-paras_a": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9846980726718902,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9461180483451997,
+        "01-ai/Yi-1.5-9B-Chat": 0.21956775665283204,
+        "internlm/internlm2-chat-7b": 0.008978850311703153
+    },
+    "hi_gpt4o-paras_a": {
+        "nickmalhotra/ProjectIndus": 0.24338921070098876,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.02729175567626953,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9625459748506546
+    },
+    "it_gpt4o-paras_a": {
+        "sapienzanlp/modello-italia-9b": 0.31166698575019836,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.0760856693983078,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9527495729923249,
+        "Qwen/Qwen2-7B-Instruct": 0.5454233127832413
+    },
+    "es_gpt4o-paras_a": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.02722392141819,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.01891195774078369,
+        "Qwen/Qwen2-7B-Instruct": 0.3026923274993896
+    },
+    "de_avgs_f": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9724548409382502,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9895288050174713,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9607425630092621
+    },
+    "en_avgs_f": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9409052799145381,
+        "tiiuae/falcon-7b-instruct": 0.9819798290729522,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9421857078870137
+    },
+    "fr_avgs_f": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9867563833793004,
+        "bofenghuang/vigogne-2-13b-chat": 0.9785974999268849,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9710709522167842,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9532133907079696,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9531021883090337
+    },
+    "ar_avgs_f": {
+        "openchat/openchat-3.5-0106-gemma": 0.9394526650508245,
+        "arcee-ai/Arcee-Spark": 0.9575334002574285,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9611079355080923
+    },
+    "zh_avgs_f": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9931349356969198,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9726925392945608,
+        "01-ai/Yi-1.5-9B-Chat": 0.9330004920562108,
+        "internlm/internlm2-chat-7b": 0.9641521036624908
+    },
+    "hi_avgs_f": {
+        "nickmalhotra/ProjectIndus": 0.9634455740451813,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9430909156799316,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9759072820345561
+    },
+    "it_avgs_f": {
+        "sapienzanlp/modello-italia-9b": 0.9609089056650798,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9531021883090337,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.968563390771548,
+        "Qwen/Qwen2-7B-Instruct": 0.9792061924934388
+    },
+    "es_avgs_f": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.968310805161794,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.921660934885343,
+        "Qwen/Qwen2-7B-Instruct": 0.9792061924934388
+    },
+    "fi_avgs_f": {
+        "LumiOpen/Poro-34B-chat": 0.9694178958733877,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9728616366783778
+    },
+    "de_gpt_f": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9643078943093618,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9637827237447103,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9839673419793447
+    },
+    "en_gpt_f": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9134676724672317,
+        "tiiuae/falcon-7b-instruct": 0.9714995622634888,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.970564478635788
+    },
+    "fr_gpt_f": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9801218385497729,
+        "bofenghuang/vigogne-2-13b-chat": 0.9735890512665113,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9129793440302213,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9563441907366117,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.945923297603925
+    },
+    "ar_gpt_f": {
+        "openchat/openchat-3.5-0106-gemma": 0.9735894208153089,
+        "arcee-ai/Arcee-Spark": 0.9768654560049375,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9316147163510322
+    },
+    "zh_gpt_f": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9437758326530457,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9564501523971558,
+        "01-ai/Yi-1.5-9B-Chat": 0.8859833359718323,
+        "internlm/internlm2-chat-7b": 0.9744661629199982
+    },
+    "hi_gpt_f": {
+        "nickmalhotra/ProjectIndus": 0.9526138429840406,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9541302954157194,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9760334844390551
+    },
+    "it_gpt_f": {
+        "sapienzanlp/modello-italia-9b": 0.9711819791793823,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.945923297603925,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9696944332122803,
+        "Qwen/Qwen2-7B-Instruct": 0.974071922302246
+    },
+    "es_gpt_f": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9045727963248889,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9117554565270741,
+        "Qwen/Qwen2-7B-Instruct": 0.974071922302246
+    },
+    "fi_gpt_f": {
+        "LumiOpen/Poro-34B-chat": 0.9590186983346939,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9671535109480222
+    },
+    "sv_gpt_f": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9357396960258484,
+        "LumiOpen/Poro-34B-chat": 0.96186337073644,
+        "LumiOpen/Viking-33B": 0.9197866082191467
+    },
+    "de_gpt4o-paras_f": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9232501763105393,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9563294434547425,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9199419277906418
+    },
+    "en_gpt4o-paras_f": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9300723969936371,
+        "tiiuae/falcon-7b-instruct": 0.9246745353937149,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9274244558811188
+    },
+    "fr_gpt4o-paras_f": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9576644593477249,
+        "bofenghuang/vigogne-2-13b-chat": 0.9147143346071244,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.8949974590539932,
+        "occiglot/occiglot-7b-eu5-instruct": 0.8868145388364792,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9080902153253555
+    },
+    "ar_gpt4o-paras_f": {
+        "openchat/openchat-3.5-0106-gemma": 0.9149649071693421,
+        "arcee-ai/Arcee-Spark": 0.9113254004716873,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9171957337856292
+    },
+    "zh_gpt4o-paras_f": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9846980726718902,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9452575866622154,
+        "01-ai/Yi-1.5-9B-Chat": 0.8896621096134186,
+        "internlm/internlm2-chat-7b": 0.8810227772202155
+    },
+    "hi_gpt4o-paras_f": {
+        "nickmalhotra/ProjectIndus": 0.9495767742395401,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.8880389356613159,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9625459748506546
+    },
+    "it_gpt4o-paras_f": {
+        "sapienzanlp/modello-italia-9b": 0.9497016787528991,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9111198097467422,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9523223692178726,
+        "Qwen/Qwen2-7B-Instruct": 0.9226125156879426
+    },
+    "es_gpt4o-paras_f": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.8972819852828979,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9007318133115768,
+        "Qwen/Qwen2-7B-Instruct": 0.9163534945249557
+    },
+    "fi_gpt4o-paras_f": {
+        "LumiOpen/Poro-34B-chat": 0.9580926859378814,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9341906670368079
+    },
+    "sv_gpt4o-paras_f": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9083908092975617,
+        "LumiOpen/Poro-34B-chat": 0.9580926859378814,
+        "LumiOpen/Viking-33B": 0.9219105952978134
+    },
+    "sv": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.5911101261774699,
+        "LumiOpen/Poro-34B-chat": 0.9268397529919942,
+        "LumiOpen/Viking-33B": 0.950030975540479
+    },
+    "sv_avgs_f": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9041422108809153,
+        "LumiOpen/Poro-34B-chat": 0.9271214505036672,
+        "LumiOpen/Viking-33B": 0.9251521269480387
+    },
+    "de_f_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9868871569633484,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.995530754327774,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9856894016265869
+    },
+    "en_f_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.953877866268158,
+        "tiiuae/falcon-7b-instruct": 0.978283554315567,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9751344323158264
+    },
+    "fr_f_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.996700793504715,
+        "bofenghuang/vigogne-2-13b-chat": 0.9822986125946045,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9707600474357605,
+        "occiglot/occiglot-7b-eu5-instruct": 0.950080394744873,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9668072760105133
+    },
+    "ar_f_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9691444337368011,
+        "arcee-ai/Arcee-Spark": 0.9521193504333496,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9649842977523804
+    },
+    "zh_f_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9849679470062256,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9984242916107178,
+        "01-ai/Yi-1.5-9B-Chat": 0.941791296005249,
+        "internlm/internlm2-chat-7b": 0.9688082933425903
+    },
+    "fi_f_median": {
+        "LumiOpen/Poro-34B-chat": 0.974691241979599,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9657027423381805
+    },
+    "hi_f_median": {
+        "nickmalhotra/ProjectIndus": 0.9706282019615173,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9468457102775574,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9797539114952087
+    },
+    "it_f_median": {
+        "sapienzanlp/modello-italia-9b": 0.9688742756843567,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9689347147941589,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9787470698356628,
+        "Qwen/Qwen2-7B-Instruct": 0.9914218783378601
+    },
+    "es_f_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9842393398284912,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9108653366565704,
+        "Qwen/Qwen2-7B-Instruct": 0.9910907745361328
+    },
+    "sv_f_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9042415618896484,
+        "LumiOpen/Poro-34B-chat": 0.9613357782363892,
+        "LumiOpen/Viking-33B": 0.9458632469177246
+    },
+    "de_gpt4o_f_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9699103236198425,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9634227156639099,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9855002164840698
+    },
+    "en_gpt4o_f_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9106250405311584,
+        "tiiuae/falcon-7b-instruct": 0.9608229398727417,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9653680920600891
+    },
+    "fr_gpt4o_f_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9801012277603149,
+        "bofenghuang/vigogne-2-13b-chat": 0.9742187261581421,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9638181924819946,
+        "occiglot/occiglot-7b-eu5-instruct": 0.948793888092041,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9478889107704163
+    },
+    "ar_gpt4o_f_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9746151566505432,
+        "arcee-ai/Arcee-Spark": 0.9437510967254639,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.933827817440033
+    },
+    "zh_gpt4o_f_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9572076797485352,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9561854898929596,
+        "01-ai/Yi-1.5-9B-Chat": 0.8837851583957672,
+        "internlm/internlm2-chat-7b": 0.9732864499092102
+    },
+    "hi_gpt4o_f_median": {
+        "nickmalhotra/ProjectIndus": 0.9526379108428955,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9458041191101074,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9618421792984009
+    },
+    "it_gpt4o_f_median": {
+        "sapienzanlp/modello-italia-9b": 0.9736495614051819,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9478889107704163,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9696856737136841,
+        "Qwen/Qwen2-7B-Instruct": 0.9745807647705078
+    },
+    "es_gpt4o_f_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9149624109268188,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.911918431520462,
+        "Qwen/Qwen2-7B-Instruct": 0.9742748141288757
+    },
+    "fi_gpt4o_f_median": {
+        "LumiOpen/Poro-34B-chat": 0.9628080725669861,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9660390019416809
+    },
+    "sv_gpt4o_f_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9422426223754883,
+        "LumiOpen/Poro-34B-chat": 0.9627994298934937,
+        "LumiOpen/Viking-33B": 0.9195311069488525
+    },
+    "de_gpt4o_f_all_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9689871966838837,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9620215892791748,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9855002164840698
+    },
+    "en_gpt4o_f_all_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9082255661487579,
+        "tiiuae/falcon-7b-instruct": 0.9507644474506378,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9653680920600891
+    },
+    "fr_gpt4o_f_all_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9799721837043762,
+        "bofenghuang/vigogne-2-13b-chat": 0.9765898287296295,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9697941541671753,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9609507918357849,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9483993947505951
+    },
+    "ar_gpt4o_f_all_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9669235050678253,
+        "arcee-ai/Arcee-Spark": 0.9399353265762329,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9429043531417847
+    },
+    "zh_gpt4o_f_all_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9578027427196503,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9626416265964508,
+        "01-ai/Yi-1.5-9B-Chat": 0.8832787275314331,
+        "internlm/internlm2-chat-7b": 0.9728142023086548
+    },
+    "fi_gpt4o_f_all_median": {
+        "LumiOpen/Poro-34B-chat": 0.9641938209533691,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.976240336894989
+    },
+    "hi_gpt4o_f_all_median": {
+        "nickmalhotra/ProjectIndus": 0.9527661204338074,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9463595151901245,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9626709222793579
+    },
+    "it_gpt4o_f_all_median": {
+        "sapienzanlp/modello-italia-9b": 0.9746401607990265,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9483993947505951,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9695298075675964,
+        "Qwen/Qwen2-7B-Instruct": 0.976607620716095
+    },
+    "es_gpt4o_f_all_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9063390791416168,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9194884300231934,
+        "Qwen/Qwen2-7B-Instruct": 0.9038352966308594
+    },
+    "sv_gpt4o_f_all_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9413301944732666,
+        "LumiOpen/Poro-34B-chat": 0.9641938209533691,
+        "LumiOpen/Viking-33B": 0.9199076890945435
+    },
+    "de_f_all_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9838575422763824,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9914826154708862,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9789779186248779
+    },
+    "en_f_all_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9416975975036621,
+        "tiiuae/falcon-7b-instruct": 0.9808818697929382,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9572871029376984
+    },
+    "sv_f_all_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9032945334911346,
+        "LumiOpen/Poro-34B-chat": 0.9589623808860779,
+        "LumiOpen/Viking-33B": 0.9399502873420715
+    },
+    "fi_f_all_median": {
+        "LumiOpen/Poro-34B-chat": 0.9823713898658752,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.968002051115036
+    },
+    "hi_f_all_median": {
+        "nickmalhotra/ProjectIndus": 0.9782068729400635,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.91026571393013,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9205784797668457
+    },
+    "zh_f_all_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9827491939067841,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9946491122245789,
+        "01-ai/Yi-1.5-9B-Chat": 0.9380906522274017,
+        "internlm/internlm2-chat-7b": 0.9733727276325226
+    },
+    "ar_f_all_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.988979160785675,
+        "arcee-ai/Arcee-Spark": 0.9336006343364716,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.977608323097229
+    },
+    "es_f_all_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9987626075744629,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9271702170372009,
+        "Qwen/Qwen2-7B-Instruct": 0.9535272717475891
+    },
+    "de_gpt4o_p0.90_t0.1_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9615280032157898,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.961788535118103,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9855002164840698
+    },
+    "en_gpt4o_p0.90_t0.1_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9088543653488159,
+        "tiiuae/falcon-7b-instruct": 0.980706512928009,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9653680920600891
+    },
+    "fr_gpt4o_p0.90_t0.1_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9799721837043762,
+        "bofenghuang/vigogne-2-13b-chat": 0.976744532585144,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9668161273002625,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9534597992897034,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9568434953689575
+    },
+    "ar_gpt4o_p0.90_t0.1_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9762391448020935,
+        "arcee-ai/Arcee-Spark": 0.9553090929985046,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9327213764190674
+    },
+    "zh_gpt4o_p0.90_t0.1_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.957390546798706,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9569066762924194,
+        "01-ai/Yi-1.5-9B-Chat": 0.8811389207839966,
+        "internlm/internlm2-chat-7b": 0.9744511842727661
+    },
+    "fi_gpt4o_p0.90_t0.1_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9649398326873779,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9631952047348022
+    },
+    "hi_gpt4o_p0.90_t0.1_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9524111747741699,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9442939758300781,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9618421792984009
+    },
+    "de_gpt4o_p0.90_t0.2_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9699103236198425,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9637312293052673,
+        "occiglot/occiglot-7b-de-en-instruct": 0.979430615901947
+    },
+    "en_gpt4o_p0.90_t0.2_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9105584621429443,
+        "tiiuae/falcon-7b-instruct": 0.9608229398727417,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9653021097183228
+    },
+    "fr_gpt4o_p0.90_t0.2_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9803173542022705,
+        "bofenghuang/vigogne-2-13b-chat": 0.977455198764801,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9638181924819946,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9542325139045715,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9816382527351379
+    },
+    "ar_gpt4o_p0.90_t0.2_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.976333498954773,
+        "arcee-ai/Arcee-Spark": 0.9553090929985046,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9429043531417847
+    },
+    "zh_gpt4o_p0.90_t0.2_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9917804002761841,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9598627090454102,
+        "01-ai/Yi-1.5-9B-Chat": 0.8833087682723999,
+        "internlm/internlm2-chat-7b": 0.9731262922286987
+    },
+    "fi_gpt4o_p0.90_t0.2_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9632632732391357,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9660500288009644
+    },
+    "hi_gpt4o_p0.90_t0.2_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9526270031929016,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9496241807937622,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9618421792984009
+    },
+    "it_gpt4o_p0.90_t0.2_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9790796637535095,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9524261951446533,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9695297479629517,
+        "Qwen/Qwen2-7B-Instruct": 0.9750974774360657
+    },
+    "es_gpt4o_p0.90_t0.2_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9188129901885986,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9115608930587769,
+        "Qwen/Qwen2-7B-Instruct": 0.9732033610343933
+    },
+    "sv_gpt4o_p0.90_t0.2_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9422314167022705,
+        "LumiOpen/Poro-34B-chat": 0.9627994298934937,
+        "LumiOpen/Viking-33B": 0.9428539276123047
+    },
+    "de_gpt4o_p0.90_t0.3_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.969089150428772,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9634227156639099,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9887797236442566
+    },
+    "en_gpt4o_p0.90_t0.3_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9266890287399292,
+        "tiiuae/falcon-7b-instruct": 0.9809744358062744,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9708828330039978
+    },
+    "fr_gpt4o_p0.90_t0.3_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9799721837043762,
+        "bofenghuang/vigogne-2-13b-chat": 0.969624400138855,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9636245369911194,
+        "occiglot/occiglot-7b-eu5-instruct": 0.95378577709198,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9818447828292847
+    },
+    "ar_gpt4o_p0.90_t0.3_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9749573469161987,
+        "arcee-ai/Arcee-Spark": 0.9546481966972351,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.942743718624115
+    },
+    "zh_gpt4o_p0.90_t0.3_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9494118690490723,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9561225175857544,
+        "01-ai/Yi-1.5-9B-Chat": 0.8833324909210205,
+        "internlm/internlm2-chat-7b": 0.9739567637443542
+    },
+    "fi_gpt4o_p0.90_t0.3_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9631587266921997,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9693917036056519
+    },
+    "hi_gpt4o_p0.90_t0.3_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9549703598022461,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9484250545501709,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9637506008148193
+    },
+    "it_gpt4o_p0.90_t0.3_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9743882417678833,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.956167995929718,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9696856737136841,
+        "Qwen/Qwen2-7B-Instruct": 0.968738317489624
+    },
+    "es_gpt4o_p0.90_t0.3_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9128620624542236,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9180715084075928,
+        "Qwen/Qwen2-7B-Instruct": 0.968738317489624
+    },
+    "sv_gpt4o_p0.90_t0.3_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9414761066436768,
+        "LumiOpen/Poro-34B-chat": 0.9631587266921997,
+        "LumiOpen/Viking-33B": 0.9341210722923279
+    },
+    "de_gpt4o_p0.95_t0.1_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9623168706893921,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9633006453514099,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9855002164840698
+    },
+    "en_gpt4o_p0.95_t0.1_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9088543653488159,
+        "tiiuae/falcon-7b-instruct": 0.9608229398727417,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9653680920600891
+    },
+    "fr_gpt4o_p0.95_t0.1_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9820876121520996,
+        "bofenghuang/vigogne-2-13b-chat": 0.9768379926681519,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9668161273002625,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9542325139045715,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9564119577407837
+    },
+    "ar_gpt4o_p0.95_t0.1_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.976333498954773,
+        "arcee-ai/Arcee-Spark": 0.9857730865478516,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.942743718624115
+    },
+    "zh_gpt4o_p0.95_t0.1_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9580929279327393,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9565623998641968,
+        "01-ai/Yi-1.5-9B-Chat": 0.8817474246025085,
+        "internlm/internlm2-chat-7b": 0.9733959436416626
+    },
+    "fi_gpt4o_p0.95_t0.1_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9659453630447388,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9717133641242981
+    },
+    "hi_gpt4o_p0.95_t0.1_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9528912901878357,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9442939758300781,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9618421792984009
+    },
+    "it_gpt4o_p0.95_t0.1_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9795583486557007,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9524151086807251,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9695297479629517,
+        "Qwen/Qwen2-7B-Instruct": 0.9745807647705078
+    },
+    "es_gpt4o_p0.95_t0.1_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.908155083656311,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.8960736989974976,
+        "Qwen/Qwen2-7B-Instruct": 0.9740234017372131
+    },
+    "sv_gpt4o_p0.95_t0.1_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9414761066436768,
+        "LumiOpen/Poro-34B-chat": 0.9626874923706055,
+        "LumiOpen/Viking-33B": 0.9274442195892334
+    },
+    "de_gpt4o_p0.95_t0.2_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.969016432762146,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9638193845748901,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9855002164840698
+    },
+    "en_gpt4o_p0.95_t0.2_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9104885458946228,
+        "tiiuae/falcon-7b-instruct": 0.9608229398727417,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9652703404426575
+    },
+    "fr_gpt4o_p0.95_t0.2_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9812194108963013,
+        "bofenghuang/vigogne-2-13b-chat": 0.9709709286689758,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9638181924819946,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9540471434593201,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9788604378700256
+    },
+    "ar_gpt4o_p0.95_t0.2_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9754597544670105,
+        "arcee-ai/Arcee-Spark": 0.9821188449859619,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9569597244262695
+    },
+    "zh_gpt4o_p0.95_t0.2_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9920250177383423,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.955068826675415,
+        "01-ai/Yi-1.5-9B-Chat": 0.8838356137275696,
+        "internlm/internlm2-chat-7b": 0.9784872531890869
+    },
+    "fi_gpt4o_p0.95_t0.2_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9632699489593506,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9671785831451416
+    },
+    "hi_gpt4o_p0.95_t0.2_5_median": {
+        "nickmalhotra/ProjectIndus": 0.952930212020874,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9442939758300781,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9618421792984009
+    },
+    "it_gpt4o_p0.95_t0.2_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9702286720275879,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9788604378700256,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9695297479629517,
+        "Qwen/Qwen2-7B-Instruct": 0.9750974774360657
+    },
+    "es_gpt4o_p0.95_t0.2_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9056301116943359,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9117951989173889,
+        "Qwen/Qwen2-7B-Instruct": 0.9742748141288757
+    },
+    "sv_gpt4o_p0.95_t0.2_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9418259263038635,
+        "LumiOpen/Poro-34B-chat": 0.9632699489593506,
+        "LumiOpen/Viking-33B": 0.9328887462615967
+    },
+    "de_gpt4o_p0.95_t0.3_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.969722330570221,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9637312293052673,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9855002164840698
+    },
+    "en_gpt4o_p0.95_t0.3_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9093138575553894,
+        "tiiuae/falcon-7b-instruct": 0.9564235806465149,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9653284549713135
+    },
+    "fr_gpt4o_p0.95_t0.3_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9797239303588867,
+        "bofenghuang/vigogne-2-13b-chat": 0.9692245125770569,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9638181924819946,
+        "occiglot/occiglot-7b-eu5-instruct": 0.953822135925293,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9809789657592773
+    },
+    "ar_gpt4o_p0.95_t0.3_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9753950834274292,
+        "arcee-ai/Arcee-Spark": 0.9558508992195129,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9355213046073914
+    },
+    "zh_gpt4o_p0.95_t0.3_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9529187083244324,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9538371562957764,
+        "01-ai/Yi-1.5-9B-Chat": 0.8831101655960083,
+        "internlm/internlm2-chat-7b": 0.9742987155914307
+    },
+    "fi_gpt4o_p0.95_t0.3_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9621782302856445,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9641811847686768
+    },
+    "hi_gpt4o_p0.95_t0.3_5_median": {
+        "nickmalhotra/ProjectIndus": 0.952695906162262,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9484250545501709,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9637506008148193
+    },
+    "it_gpt4o_p0.95_t0.3_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.973892331123352,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9809789657592773,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9699645042419434,
+        "Qwen/Qwen2-7B-Instruct": 0.9745807647705078
+    },
+    "es_gpt4o_p0.95_t0.3_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9116299152374268,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9087540507316589,
+        "Qwen/Qwen2-7B-Instruct": 0.974199652671814
+    },
+    "sv_gpt4o_p0.95_t0.3_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9422314167022705,
+        "LumiOpen/Poro-34B-chat": 0.9626474976539612,
+        "LumiOpen/Viking-33B": 0.9266365766525269
+    },
+    "es_gpt4o_p0.90_t0.1_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9141386151313782,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9135074615478516,
+        "Qwen/Qwen2-7B-Instruct": 0.9038352966308594
+    },
+    "sv_gpt4o_p0.90_t0.1_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9415591359138489,
+        "LumiOpen/Poro-34B-chat": 0.9529052972793579,
+        "LumiOpen/Viking-33B": 0.9202933311462402
+    },
+    "it_gpt4o_p0.90_t0.1_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9742101430892944,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9109204411506653,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9695298075675964,
+        "Qwen/Qwen2-7B-Instruct": 0.9745808839797974
+    },
+    "en_p0.90_t0.1_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9349057674407959,
+        "tiiuae/falcon-7b-instruct": 0.9769836664199829,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9841806292533875
+    },
+    "de_p0.90_t0.2_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9770002961158752,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9939036965370178,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9882853627204895
+    },
+    "en_p0.90_t0.2_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9740369319915771,
+        "tiiuae/falcon-7b-instruct": 0.9792933464050293,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9841421842575073
+    },
+    "de_p0.90_t0.3_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9718414545059204,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9961710572242737,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9871525764465332
+    },
+    "en_p0.90_t0.3_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.960381269454956,
+        "tiiuae/falcon-7b-instruct": 0.9874873161315918,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9458600878715515
+    },
+    "de_p0.95_t0.1_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.999579668045044,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9963346719741821,
+        "occiglot/occiglot-7b-de-en-instruct": 0.995376467704773
+    },
+    "en_p0.95_t0.1_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9646120071411133,
+        "tiiuae/falcon-7b-instruct": 0.9792933464050293,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9401377439498901
+    },
+    "de_p0.95_t0.2_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9866758584976196,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9968962669372559,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9778604507446289
+    },
+    "en_p0.95_t0.2_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9547283053398132,
+        "tiiuae/falcon-7b-instruct": 0.9815950989723206,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.922124981880188
+    },
+    "de_p0.95_t0.3_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9769808053970337,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9886656403541565,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9814972877502441
+    },
+    "en_p0.95_t0.3_5_median": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9546817541122437,
+        "tiiuae/falcon-7b-instruct": 0.9756554365158081,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9601015448570251
+    },
+    "de_p0.90_t0.1_5_median": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9979038834571838,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9945299625396729,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9935227632522583
+    },
+    "ar_p0.90_t0.1_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9842008352279663,
+        "arcee-ai/Arcee-Spark": 0.9523873329162598,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9980816841125488
+    },
+    "zh_p0.90_t0.1_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9864193797111511,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9972207546234131,
+        "01-ai/Yi-1.5-9B-Chat": 0.9462254643440247,
+        "internlm/internlm2-chat-7b": 0.9819940328598022
+    },
+    "fi_p0.90_t0.1_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9747229814529419,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9788116216659546
+    },
+    "hi_p0.90_t0.1_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9814299941062927,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9522465467453003,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9797539114952087
+    },
+    "es_p0.90_t0.1_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9944928884506226,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9248995184898376,
+        "Qwen/Qwen2-7B-Instruct": 1.0000001192092896
+    },
+    "sv_p0.90_t0.1_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9049682021141052,
+        "LumiOpen/Poro-34B-chat": 0.9569286108016968,
+        "LumiOpen/Viking-33B": 0.9458632469177246
+    },
+    "sv_p0.90_t0.2_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.902970552444458,
+        "LumiOpen/Poro-34B-chat": 0.9392731189727783,
+        "LumiOpen/Viking-33B": 0.9458632469177246
+    },
+    "sv_p0.90_t0.3_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9051170349121094,
+        "LumiOpen/Poro-34B-chat": 0.9550960063934326,
+        "LumiOpen/Viking-33B": 0.9403721690177917
+    },
+    "sv_p0.95_t0.1_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9023807048797607,
+        "LumiOpen/Poro-34B-chat": 0.9589277505874634,
+        "LumiOpen/Viking-33B": 0.9458632469177246
+    },
+    "sv_p0.95_t0.2_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9190546274185181,
+        "LumiOpen/Poro-34B-chat": 0.9599722623825073,
+        "LumiOpen/Viking-33B": 0.9395284056663513
+    },
+    "sv_p0.95_t0.3_5_median": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9033634662628174,
+        "LumiOpen/Poro-34B-chat": 0.9569286108016968,
+        "LumiOpen/Viking-33B": 0.9247940182685852
+    },
+    "fi_p0.90_t0.2_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9788721799850464,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9774705171585083
+    },
+    "hi_p0.90_t0.2_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9713582992553711,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9114862680435181,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9767346978187561
+    },
+    "zh_p0.90_t0.2_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9864628314971924,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9858760833740234,
+        "01-ai/Yi-1.5-9B-Chat": 0.9517000913619995,
+        "internlm/internlm2-chat-7b": 0.9778279066085815
+    },
+    "ar_p0.90_t0.2_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9608232975006104,
+        "arcee-ai/Arcee-Spark": 0.9512020349502563,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9749749898910522
+    },
+    "es_p0.90_t0.2_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9797260761260986,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.922515332698822,
+        "Qwen/Qwen2-7B-Instruct": 0.9972487092018127
+    },
+    "fi_p0.90_t0.3_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9628336429595947,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9905275106430054
+    },
+    "hi_p0.90_t0.3_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9708558320999146,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9573540091514587,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9834831953048706
+    },
+    "zh_p0.90_t0.3_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9994531869888306,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9911614060401917,
+        "01-ai/Yi-1.5-9B-Chat": 0.9547135233879089,
+        "internlm/internlm2-chat-7b": 0.9681050777435303
+    },
+    "ar_p0.90_t0.3_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9864621758460999,
+        "arcee-ai/Arcee-Spark": 0.9522110223770142,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9707279205322266
+    },
+    "es_p0.90_t0.3_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9844623804092407,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9190897941589355,
+        "Qwen/Qwen2-7B-Instruct": 0.9972487092018127
+    },
+    "fi_p0.95_t0.1_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9747229814529419,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9982277154922485
+    },
+    "hi_p0.95_t0.1_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9893981218338013,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9653769135475159,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9797539114952087
+    },
+    "zh_p0.95_t0.1_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9831189513206482,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9971498847007751,
+        "01-ai/Yi-1.5-9B-Chat": 0.9457929730415344,
+        "internlm/internlm2-chat-7b": 0.9731131792068481
+    },
+    "ar_p0.95_t0.1_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9690983295440674,
+        "arcee-ai/Arcee-Spark": 0.9522839784622192,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9726356267929077
+    },
+    "es_p0.95_t0.1_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9998693466186523,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9262070655822754,
+        "Qwen/Qwen2-7B-Instruct": 0.952912449836731
+    },
+    "fi_p0.95_t0.2_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9795102477073669,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9583839178085327
+    },
+    "hi_p0.95_t0.2_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9734187722206116,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9430773258209229,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9797539114952087
+    },
+    "zh_p0.95_t0.2_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9980725049972534,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.999541163444519,
+        "01-ai/Yi-1.5-9B-Chat": 0.9593307971954346,
+        "internlm/internlm2-chat-7b": 0.9780817627906799
+    },
+    "ar_p0.95_t0.2_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9551224708557129,
+        "arcee-ai/Arcee-Spark": 0.9423564672470093,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9655075073242188
+    },
+    "es_p0.95_t0.2_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9841261506080627,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9247851371765137,
+        "Qwen/Qwen2-7B-Instruct": 0.9511410593986511
+    },
+    "fi_p0.95_t0.3_5_median": {
+        "LumiOpen/Poro-34B-chat": 0.9680893421173096,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9588562846183777
+    },
+    "hi_p0.95_t0.3_5_median": {
+        "nickmalhotra/ProjectIndus": 0.9641528129577637,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9460070133209229,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9802803993225098
+    },
+    "zh_p0.95_t0.3_5_median": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9754638671875,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9868419170379639,
+        "01-ai/Yi-1.5-9B-Chat": 0.931494951248169,
+        "internlm/internlm2-chat-7b": 0.9752679467201233
+    },
+    "ar_p0.95_t0.3_5_median": {
+        "openchat/openchat-3.5-0106-gemma": 0.9607175588607788,
+        "arcee-ai/Arcee-Spark": 0.9545081853866577,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9761514067649841
+    },
+    "es_p0.95_t0.3_5_median": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9736700057983398,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.9135885238647461,
+        "Qwen/Qwen2-7B-Instruct": 0.952912449836731
+    },
+    "it_f_all_median": {
+        "sapienzanlp/modello-italia-9b": 0.9737473726272583,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9835127592086792,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9817194938659668,
+        "Qwen/Qwen2-7B-Instruct": 0.9914219379425049
+    },
+    "it_p0.90_t0.1_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9680533409118652,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9964544773101807,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9992722868919373,
+        "Qwen/Qwen2-7B-Instruct": 0.9938497543334961
+    },
+    "it_p0.90_t0.2_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9673270583152771,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9835084676742554,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9920632243156433,
+        "Qwen/Qwen2-7B-Instruct": 0.9935551881790161
+    },
+    "it_p0.90_t0.3_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9694898128509521,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9213963747024536,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9838094711303711,
+        "Qwen/Qwen2-7B-Instruct": 0.9910614490509033
+    },
+    "it_p0.95_t0.1_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9717720746994019,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9917783737182617,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9986404180526733,
+        "Qwen/Qwen2-7B-Instruct": 0.9914219379425049
+    },
+    "it_p0.95_t0.2_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9795976281166077,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.982923150062561,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9699243903160095,
+        "Qwen/Qwen2-7B-Instruct": 0.9914219379425049
+    },
+    "it_p0.95_t0.3_5_median": {
+        "sapienzanlp/modello-italia-9b": 0.9676063060760498,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9834897518157959,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.991657555103302,
+        "Qwen/Qwen2-7B-Instruct": 0.9908684492111206
+    },
+    "fr_f_all_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9828126728534698,
+        "bofenghuang/vigogne-2-13b-chat": 0.9798856377601624,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9873237013816833,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9691058993339539,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9738782942295074
+    },
+    "fr_p0.90_t0.1_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9994221925735474,
+        "bofenghuang/vigogne-2-13b-chat": 0.9815329313278198,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9784460067749023,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9700378775596619,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9838141798973083
+    },
+    "fr_p0.90_t0.2_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9979302883148193,
+        "bofenghuang/vigogne-2-13b-chat": 0.978364884853363,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9814496040344238,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9692683815956116,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9800654649734497
+    },
+    "fr_p0.90_t0.3_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9980153441429138,
+        "bofenghuang/vigogne-2-13b-chat": 0.9801856279373169,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.96099853515625,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9602506756782532,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.967404842376709
+    },
+    "fr_p0.95_t0.1_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9985530972480774,
+        "bofenghuang/vigogne-2-13b-chat": 0.978310763835907,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.997309148311615,
+        "occiglot/occiglot-7b-eu5-instruct": 0.970251202583313,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9802612066268921
+    },
+    "fr_p0.95_t0.2_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9967377185821533,
+        "bofenghuang/vigogne-2-13b-chat": 0.9795966744422913,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9738113284111023,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9707418084144592,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9763990640640259
+    },
+    "fr_p0.95_t0.3_5_median": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9979302883148193,
+        "bofenghuang/vigogne-2-13b-chat": 0.9762015342712402,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.979522705078125,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9607737064361572,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9681369066238403
+    },
+    "ar_avgs_f_median_full_val": {
+        "openchat/openchat-3.5-0106-gemma": 0.9425573309262594,
+        "arcee-ai/Arcee-Spark": 0.9564514974753062,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9588114529848099
+    },
+    "de_avgs_f_median_full_val": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9746093173821767,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.938988987604777,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9607425630092621
+    },
+    "en_avgs_f_median_full_val": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9650025963783264,
+        "tiiuae/falcon-7b-instruct": 0.9519422858953476,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9392311195532481
+    },
+    "es_avgs_f_median_full_val": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9477387338876724,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.915662415822347,
+        "Qwen/Qwen2-7B-Instruct": 0.9990595608949662
+    },
+    "fi_avgs_f_median_full_val": {
+        "LumiOpen/Poro-34B-chat": 0.9692501743634542,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9717413445313772
+    },
+    "fr_avgs_f_median_full_val": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9784563899040222,
+        "bofenghuang/vigogne-2-13b-chat": 0.9822883973519008,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9710709522167842,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9684447546799978,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9587710509697597
+    },
+    "hi_avgs_f_median_full_val": {
+        "nickmalhotra/ProjectIndus": 0.9626774589220682,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.9458256214857101,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.915662415822347
+    },
+    "it_avgs_f_median_full_val": {
+        "sapienzanlp/modello-italia-9b": 0.9609089056650798,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9587710509697597,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.968563390771548,
+        "Qwen/Qwen2-7B-Instruct": 0.9794451534748078
+    },
+    "sv_avgs_f_median_full_val": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.936329502860705,
+        "LumiOpen/Poro-34B-chat": 0.9692501743634542,
+        "LumiOpen/Viking-33B": 0.9348086764415106
+    },
+    "zh_avgs_f_median_full_val": {
+        "Qwen/Qwen1.5-14B-Chat": 0.980234311024348,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9726925392945608,
+        "01-ai/Yi-1.5-9B-Chat": 0.9353365123271942,
+        "internlm/internlm2-chat-7b": 0.9545260181029638
+    },
+    "ar_gpt4o_gpt4o_f_median_full_val": {
+        "openchat/openchat-3.5-0106-gemma": 0.9536191299557686,
+        "arcee-ai/Arcee-Spark": 0.9768654560049375,
+        "SeaLLMs/SeaLLM-7B-v2.5": 0.9306907638907432
+    },
+    "de_gpt4o_gpt4o_f_median_full_val": {
+        "malteos/bloom-6b4-clp-german-oasst-v0.1": 0.9643078943093618,
+        "TheBloke/SauerkrautLM-7B-v1-GGUF": 0.9623412996530533,
+        "occiglot/occiglot-7b-de-en-instruct": 0.9837555930018425
+    },
+    "en_gpt4o_gpt4o_f_median_full_val": {
+        "TheBloke/Mistral-7B-Instruct-v0.2-GGUF": 0.9480509161949158,
+        "tiiuae/falcon-7b-instruct": 0.9714995622634888,
+        "togethercomputer/Pythia-Chat-Base-7B": 0.9291743690768878
+    },
+    "es_gpt4o_gpt4o_f_median_full_val": {
+        "Iker/Llama-3-Instruct-Neurona-8b-v2": 0.9043618857860565,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.899254821240902,
+        "Qwen/Qwen2-7B-Instruct": 0.9167026832699776
+    },
+    "fi_gpt4o_gpt4o_f_median_full_val": {
+        "LumiOpen/Poro-34B-chat": 0.96356460750103,
+        "Finnish-NLP/llama-7b-finnish-instruct-v0.2": 0.9653820971647898
+    },
+    "fr_gpt4o_gpt4o_f_median_full_val": {
+        "croissantllm/CroissantLLMChat-v0.1": 0.9789889420072238,
+        "bofenghuang/vigogne-2-13b-chat": 0.9673356900612513,
+        "mistralai/Mistral-Nemo-Instruct-2407": 0.9644937763611475,
+        "occiglot/occiglot-7b-eu5-instruct": 0.9706461732586225,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9798136899868647
+    },
+    "hi_gpt4o_gpt4o_f_median_full_val": {
+        "nickmalhotra/ProjectIndus": 0.9579394161701202,
+        "sarvamai/OpenHathi-7B-Hi-v0.1-Base": 0.8776900668938955,
+        "meta-llama/Meta-Llama-3-8B-Instruct": 0.904980173210303
+    },
+    "it_gpt4o_gpt4o_f_median_full_val": {
+        "sapienzanlp/modello-italia-9b": 0.9711819791793823,
+        "meta-llama/Meta-Llama-3.1-8B-Instruct": 0.9798136899868647,
+        "rstless-research/DanteLLM-7B-Instruct-Italian-v0.1": 0.9694347490866979,
+        "Qwen/Qwen2-7B-Instruct": 0.974071922302246
+    },
+    "sv_gpt4o_gpt4o_f_median_full_val": {
+        "AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf": 0.9308778127034505,
+        "LumiOpen/Poro-34B-chat": 0.96186337073644,
+        "LumiOpen/Viking-33B": 0.9197866082191467
+    },
+    "zh_gpt4o_gpt4o_f_median_full_val": {
+        "Qwen/Qwen1.5-14B-Chat": 0.9451445703705151,
+        "baichuan-inc/Baichuan2-13B-Chat": 0.9535699486732483,
+        "01-ai/Yi-1.5-9B-Chat": 0.8957015405098597,
+        "internlm/internlm2-chat-7b": 0.9744661629199982
+    }
+}

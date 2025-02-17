@@ -1,0 +1,98 @@
+Sample set:
+{'id': 12, 'lang': 'ES', 'model_input': '¿Qué características presentan los miembros de la familia líquenes Cladoniaceae?', 'model_output_text': 'Los miudades de Cladotholus, Cladoscypha y Cladiopelma son todos miembro de las Cladoriaceae. Estos miércoles presentaban características únicas que los diferenciaban de otros miembres de su familia.\n\nCladothus es una especie de líbano que se encuentra en climas desérticos. Se caracteriza por sus hojas verdes y gruesas que pueden crecer hasta 30 cm de longitud. También tiene un tallo carnoso que puede almacenar agua durante largos periodos de tiempo, lo que lo convierte en un excelente candidato para su uso en paisajismo en regiones áridas.\n\nPor otro lado, la Cladia es un género de hongos que crece en grupos en árboles y arbustos. Sus cuerpos fructíferos son pequeños y tienen forma de dedos, con una coloración amarilla o naranja brillante. La Clada también tiene una estructura única llamada "sistema de cladiocistos", que le permite reproducirse tanto sexual como asexualmente.\n\nFinalmente, el Claudiopella es otro géneros fúngicos que también crecen en plantas. Tienen una apariencia parecida a plumas y pueden ser de varios colores, incluyendo rojo, amarronado y verde. Su estructuras frutales son distintivas en forma y usualmente se encuentran en grandes grupos.\n\nEn general, estos miérmes de los Cladores son únicos en su apreciación y presentación, mostrando las diversas y fascinantes características de sus respectivos géneos.', 'model_id': 'Iker/Llama-3-Instruct-Neurona-8b-v2', 'soft_labels': [{'start': 4, 'prob': 1.0, 'end': 12}, {'start': 12, 'prob': 0.3333333333, 'end': 13}, {'start': 16, 'prob': 0.6666666667, 'end': 21}, {'start': 21, 'prob': 1.0, 'end': 27}, {'start': 29, 'prob': 0.6666666667, 'end': 34}, {'start': 34, 'prob': 1.0, 'end': 40}, {'start': 40, 'prob': 0.3333333333, 'end': 41}, {'start': 43, 'prob': 1.0, 'end': 54}, {'start': 54, 'prob': 0.3333333333, 'end': 55}, {'start': 80, 'prob': 0.3333333333, 'end': 92}, {'start': 100, 'prob': 1.0, 'end': 109}, {'start': 109, 'prob': 0.3333333333, 'end': 110}, {'start': 200, 'prob': 0.3333333333, 'end': 206}, {'start': 206, 'prob': 0.6666666667, 'end': 210}, {'start': 228, 'prob': 0.3333333333, 'end': 229}, {'start': 229, 'prob': 1.0, 'end': 235}, {'start': 235, 'prob': 0.3333333333, 'end': 236}, {'start': 239, 'prob': 0.3333333333, 'end': 253}, {'start': 253, 'prob': 0.6666666667, 'end': 273}, {'start': 273, 'prob': 0.3333333333, 'end': 274}, {'start': 298, 'prob': 0.6666666667, 'end': 303}, {'start': 303, 'prob': 0.3333333333, 'end': 304}, {'start': 304, 'prob': 0.6666666667, 'end': 310}, {'start': 310, 'prob': 0.3333333333, 'end': 311}, {'start': 311, 'prob': 0.6666666667, 'end': 312}, {'start': 312, 'prob': 0.3333333333, 'end': 313}, {'start': 313, 'prob': 0.6666666667, 'end': 320}, {'start': 320, 'prob': 0.3333333333, 'end': 344}, {'start': 344, 'prob': 0.6666666667, 'end': 345}, {'start': 345, 'prob': 1.0, 'end': 347}, {'start': 347, 'prob': 0.6666666667, 'end': 348}, {'start': 348, 'prob': 1.0, 'end': 350}, {'start': 350, 'prob': 0.6666666667, 'end': 362}, {'start': 378, 'prob': 0.3333333333, 'end': 405}, {'start': 405, 'prob': 0.6666666667, 'end': 453}, {'start': 453, 'prob': 0.3333333333, 'end': 454}, {'start': 530, 'prob': 0.3333333333, 'end': 545}, {'start': 563, 'prob': 0.3333333333, 'end': 566}, {'start': 566, 'prob': 1.0, 'end': 572}, {'start': 572, 'prob': 0.3333333333, 'end': 573}, {'start': 579, 'prob': 0.3333333333, 'end': 619}, {'start': 619, 'prob': 0.6666666667, 'end': 636}, {'start': 636, 'prob': 0.3333333333, 'end': 640}, {'start': 677, 'prob': 0.3333333333, 'end': 694}, {'start': 694, 'prob': 0.6666666667, 'end': 699}, {'start': 720, 'prob': 0.6666666667, 'end': 728}, {'start': 728, 'prob': 0.3333333333, 'end': 731}, {'start': 731, 'prob': 0.6666666667, 'end': 738}, {'start': 738, 'prob': 0.3333333333, 'end': 739}, {'start': 739, 'prob': 0.6666666667, 'end': 748}, {'start': 750, 'prob': 0.3333333333, 'end': 753}, {'start': 753, 'prob': 0.6666666667, 'end': 758}, {'start': 758, 'prob': 0.3333333333, 'end': 759}, {'start': 802, 'prob': 0.6666666667, 'end': 827}, {'start': 870, 'prob': 0.3333333333, 'end': 874}, {'start': 875, 'prob': 0.3333333333, 'end': 887}, {'start': 905, 'prob': 1.0, 'end': 917}, {'start': 917, 'prob': 0.3333333333, 'end': 918}, {'start': 974, 'prob': 0.3333333333, 'end': 1007}, {'start': 1007, 'prob': 1.0, 'end': 1013}, {'start': 1013, 'prob': 0.6666666667, 'end': 1014}, {'start': 1014, 'prob': 0.3333333333, 'end': 1030}, {'start': 1030, 'prob': 0.6666666667, 'end': 1036}, {'start': 1036, 'prob': 0.3333333333, 'end': 1037}, {'start': 1037, 'prob': 0.6666666667, 'end': 1043}, {'start': 1043, 'prob': 0.3333333333, 'end': 1044}, {'start': 1045, 'prob': 0.3333333333, 'end': 1057}, {'start': 1057, 'prob': 0.6666666667, 'end': 1061}, {'start': 1061, 'prob': 0.3333333333, 'end': 1063}, {'start': 1063, 'prob': 0.6666666667, 'end': 1073}, {'start': 1073, 'prob': 0.3333333333, 'end': 1076}, {'start': 1076, 'prob': 0.6666666667, 'end': 1081}, {'start': 1098, 'prob': 0.3333333333, 'end': 1106}, {'start': 1132, 'prob': 0.3333333333, 'end': 1176}, {'start': 1197, 'prob': 0.6666666667, 'end': 1200}, {'start': 1200, 'prob': 1.0, 'end': 1204}, {'start': 1204, 'prob': 0.3333333333, 'end': 1205}, {'start': 1212, 'prob': 0.6666666667, 'end': 1216}, {'start': 1216, 'prob': 1.0, 'end': 1220}, {'start': 1220, 'prob': 0.3333333333, 'end': 1221}], 'hard_labels': [[4, 12], [16, 27], [29, 40], [43, 54], [100, 109], [206, 210], [229, 235], [253, 273], [298, 303], [304, 310], [311, 312], [313, 320], [344, 362], [405, 453], [566, 572], [619, 636], [694, 699], [720, 728], [731, 738], [739, 748], [753, 758], [802, 827], [905, 917], [1007, 1014], [1030, 1036], [1037, 1043], [1057, 1061], [1063, 1073], [1076, 1081], [1197, 1204], [1212, 1220]]}
+Iker/Llama-3-Instruct-Neurona-8b-v2
+meta-llama/Meta-Llama-3-8B-Instruct
+TheBloke/Mistral-7B-Instruct-v0.2-GGUF
+
+Validation set:
+filename: mushroom.de-val.v1.jsonl
+{'id': 'val-de-50', 'lang': 'DE', 'model_input': 'Wie viele Zuschauer haben Platz im Gillette Stadium in Foxborough?', 'model_output_text': '\nDas Gilette Stadium ist mit einer Kapazität von rund 50.000 Zuschauern das größte Stadion in der NFL.', 'model_id': 'malteos/bloom-6b4-clp-german-oasst-v0.1', 'soft_labels': [{'start': 49, 'prob': 0.3333333333, 'end': 54}, {'start': 54, 'prob': 1.0, 'end': 60}, {'start': 60, 'prob': 0.3333333333, 'end': 72}, {'start': 72, 'prob': 0.6666666667, 'end': 101}], 'hard_labels': [[54, 60], [72, 101]]}
+malteos/bloom-6b4-clp-german-oasst-v0.1
+TheBloke/SauerkrautLM-7B-v1-GGUF
+occiglot/occiglot-7b-de-en-instruct
+
+
+filename: mushroom.ar-val.v1.jsonl
+{'id': 'val-ar-50', 'lang': 'AR', 'model_input': 'في أي يوم من أيام الأسبوع بدأت سنة 1382 حسب التقويم اليولياني؟', 'model_output_text': 'يوم الأحد.', 'model_id': 'SeaLLMs/SeaLLM-7B-v2.5', 'soft_labels': [{'start': 4, 'prob': 1.0, 'end': 9}], 'hard_labels': [[4, 9]]}
+openchat/openchat-3.5-0106-gemma
+arcee-ai/Arcee-Spark
+SeaLLMs/SeaLLM-7B-v2.5
+
+
+filename: mushroom.es-val.v1.jsonl
+{'id': 'val-es-50', 'lang': 'ES', 'model_input': '¿En qué estado de la India se encuentra la ciudad de Ludhiana?', 'model_output_text': 'Ludhiana es una ciudad en el estado de Punjab, India. Está ubicada en la parte central del estado y sirve como la capital del distrito de Ludhiana.', 'model_id': 'Iker/Llama-3-Instruct-Neurona-8b-v2', 'soft_labels': [{'start': 79, 'prob': 0.3333333333, 'end': 86}, {'start': 114, 'prob': 0.6666666667, 'end': 121}, {'start': 121, 'prob': 0.3333333333, 'end': 146}], 'hard_labels': [[114, 121]]}
+Iker/Llama-3-Instruct-Neurona-8b-v2
+meta-llama/Meta-Llama-3-8B-Instruct
+Qwen/Qwen2-7B-Instruct
+
+
+filename: mushroom.fr-val.v1.jsonl
+{'id': 'val-fr-50', 'lang': 'FR', 'model_input': 'Quelle est la capitale du district de Farrukhabad?', 'model_output_text': 'La capitale du district de Farrukhabad en Inde est Prayagraj.', 'model_id': 'croissantllm/CroissantLLMChat-v0.1', 'soft_labels': [{'start': 51, 'prob': 1.0, 'end': 60}], 'hard_labels': [[51, 60]]}
+croissantllm/CroissantLLMChat-v0.1
+bofenghuang/vigogne-2-13b-chat
+mistralai/Mistral-Nemo-Instruct-2407
+occiglot/occiglot-7b-eu5-instruct
+meta-llama/Meta-Llama-3.1-8B-Instruct
+
+
+filename: mushroom.en-val.v1.jsonl
+{'id': 'val-en-50', 'lang': 'EN', 'model_input': 'Which municipalities does the Italian commune of Ponzone border?', 'model_output_text': ' Ponza\n', 'model_id': 'togethercomputer/Pythia-Chat-Base-7B', 'soft_labels': [{'start': 1, 'prob': 0.9090909091, 'end': 6}], 'hard_labels': [[1, 6]]}
+mistral
+tiiuae/falcon-7b-instruct
+togethercomputer/Pythia-Chat-Base-7B
+
+
+filename: mushroom.sv-val.v1.jsonl
+{'id': 'val-sv-50', 'lang': 'SV', 'model_input': 'Hur många barn har Johnny Cash?', 'model_output_text': 'Han fick tre.', 'model_id': '', 'soft_labels': [{'start': 9, 'prob': 1.0, 'end': 12}], 'hard_labels': [[9, 12]]}
+AI-Sweden-Models\/gpt-sw3-6.7b-v2-instruct-gguf
+LumiOpen\/Poro-34B-chat
+LumiOpen\/Viking-33B
+
+filename: mushroom.fi-val.v1.jsonl
+{'id': 'val-fi-50', 'lang': 'FI', 'model_input': 'Mitä pallohyppiäiset ovat?', 'model_output_text': 'Pallohyppiäiset ovat pieniä, hoikkia hyönteisiä, jotka elävät pääasiassa puissa. Ne ovat väriltään yleensä vihreitä, ja niillä on kaksi paria jalkoja, joissa on pallomaiset päät. Niiden siivet ovat yleensä mustat, ja ne pystyvät hyppäämään pitkiä matkoja. Ne ovat hyödyllisiä pölyttäjiä, sillä ne auttavat levittämään siitepölyä kukasta kukkaan. ', 'model_id': 'Finnish-NLP/llama-7b-finnish-instruct-v0.2', 'soft_labels': [{'start': 21, 'prob': 0.6666666667, 'end': 29}, {'start': 29, 'prob': 1.0, 'end': 47}, {'start': 47, 'prob': 0.3333333333, 'end': 55}, {'start': 55, 'prob': 0.6666666667, 'end': 79}, {'start': 79, 'prob': 0.3333333333, 'end': 99}, {'start': 99, 'prob': 1.0, 'end': 115}, {'start': 115, 'prob': 0.6666666667, 'end': 130}, {'start': 130, 'prob': 1.0, 'end': 149}, {'start': 149, 'prob': 0.6666666667, 'end': 161}, {'start': 161, 'prob': 1.0, 'end': 192}, {'start': 192, 'prob': 0.6666666667, 'end': 206}, {'start': 206, 'prob': 1.0, 'end': 212}, {'start': 212, 'prob': 0.6666666667, 'end': 229}, {'start': 229, 'prob': 1.0, 'end': 254}, {'start': 254, 'prob': 0.3333333333, 'end': 264}, {'start': 264, 'prob': 1.0, 'end': 286}, {'start': 286, 'prob': 0.6666666667, 'end': 297}, {'start': 297, 'prob': 1.0, 'end': 344}], 'hard_labels': [[21, 47], [55, 79], [99, 254], [264, 344]]}
+LumiOpen/Poro-34B-chat
+Finnish-NLP/llama-7b-finnish-instruct-v0.2
+
+filename: mushroom.it-val.v1.jsonl
+{'id': 'val-it-50', 'lang': 'IT', 'model_input': 'Da chi e quando fu coniato il termine biologia molecolare?', 'model_output_text': 'Il termine "biologia molecolare" fu coniato nel 1952 da Frederick Sanger. L\'idea di studiare il materiale genetico a livello molecolare fu proposta per la prima volta da Rosalind Franklin, che utilizzò la cristallografia a raggi X per analizzare il DNA. Tuttavia, non fu fino agli anni \'50 che gli scienziati iniziarono a utilizzare tecniche come la reazione a catena della polimerasi (PCR) per studiare il materiale genetico a livello molecolare.', 'model_id': 'sapienzanlp/modello-italia-9b', 'soft_labels': [{'start': 48, 'prob': 1.0, 'end': 52}, {'start': 56, 'prob': 1.0, 'end': 72}, {'start': 72, 'prob': 0.6666666667, 'end': 170}, {'start': 170, 'prob': 1.0, 'end': 187}, {'start': 187, 'prob': 0.6666666667, 'end': 205}, {'start': 205, 'prob': 1.0, 'end': 252}, {'start': 252, 'prob': 0.6666666667, 'end': 287}, {'start': 287, 'prob': 1.0, 'end': 289}, {'start': 289, 'prob': 0.6666666667, 'end': 350}, {'start': 350, 'prob': 1.0, 'end': 389}, {'start': 389, 'prob': 0.6666666667, 'end': 446}], 'hard_labels': [[48, 52], [56, 446]]}
+sapienzanlp/modello-italia-9b
+meta-llama/Meta-Llama-3.1-8B-Instruct
+rstless-research/DanteLLM-7B-Instruct-Italian-v0.1
+Qwen/Qwen2-7B-Instruct
+
+
+filename: mushroom.zh-val.v1.jsonl
+{'id': 'val-zh-50', 'lang': 'ZH', 'model_input': '吉兰·柯南曾效力过哪些职业俱乐部？', 'model_output_text': '\n1. 皇家马德里（Real Madrid）：2009年至210年，2年间帮助球队赢得了两个西甲冠军、一个国王杯冠军和一个欧洲冠军联赛冠军。\n2. AC米兰（AC Milan）: 22年加盟，但表现一般，没有赢得任何荣誉。', 'model_id': 'baichuan-inc/Baichuan2-13B-Chat', 'soft_labels': [{'start': 1, 'prob': 0.3333333333, 'end': 4}, {'start': 4, 'prob': 1.0, 'end': 9}, {'start': 9, 'prob': 0.6666666667, 'end': 23}, {'start': 23, 'prob': 0.8333333333, 'end': 27}, {'start': 27, 'prob': 0.6666666667, 'end': 28}, {'start': 28, 'prob': 0.3333333333, 'end': 29}, {'start': 29, 'prob': 0.8333333333, 'end': 32}, {'start': 32, 'prob': 0.6666666667, 'end': 33}, {'start': 33, 'prob': 0.5, 'end': 34}, {'start': 34, 'prob': 0.8333333333, 'end': 37}, {'start': 37, 'prob': 0.6666666667, 'end': 41}, {'start': 41, 'prob': 0.8333333333, 'end': 46}, {'start': 46, 'prob': 1.0, 'end': 50}, {'start': 50, 'prob': 0.6666666667, 'end': 53}, {'start': 53, 'prob': 1.0, 'end': 58}, {'start': 58, 'prob': 0.6666666667, 'end': 59}, {'start': 59, 'prob': 0.8333333333, 'end': 61}, {'start': 61, 'prob': 1.0, 'end': 69}, {'start': 69, 'prob': 0.3333333333, 'end': 74}, {'start': 74, 'prob': 1.0, 'end': 78}, {'start': 78, 'prob': 0.6666666667, 'end': 87}, {'start': 87, 'prob': 0.5, 'end': 90}, {'start': 90, 'prob': 1.0, 'end': 93}, {'start': 93, 'prob': 0.8333333333, 'end': 95}, {'start': 95, 'prob': 0.6666666667, 'end': 97}, {'start': 97, 'prob': 0.8333333333, 'end': 110}], 'hard_labels': [[4, 28], [29, 33], [34, 69], [74, 87], [90, 110]]}
+Qwen/Qwen1.5-14B-Chat
+baichuan-inc/Baichuan2-13B-Chat
+01-ai/Yi-1.5-9B-Chat
+internlm/internlm2-chat-7b
+
+
+filename: mushroom.hi-val.v1.jsonl
+{'id': 'val-hi-50', 'lang': 'HI', 'model_input': 'जामनगर का निर्माण किसने और कब करवाया था ?', 'model_output_text': 'जामनगर का निर्माण १९वीं शताब्दी में ब्रिटिश ईस्ट इंडिया कंपनी द्वारा किया गया था।', 'model_id': 'nickmalhotra/ProjectIndus', 'soft_labels': [{'start': 18, 'prob': 1.0, 'end': 23}, {'start': 23, 'prob': 0.3333333333, 'end': 36}, {'start': 36, 'prob': 0.6666666667, 'end': 44}, {'start': 44, 'prob': 1.0, 'end': 61}], 'hard_labels': [[18, 23], [36, 61]]}
+nickmalhotra/ProjectIndus
+sarvamai/OpenHathi-7B-Hi-v0.1-Base
+meta-llama/Meta-Llama-3-8B-Instruct
+
+test set:
+
+filename: mushroom.ca-tst.v1.jsonl
+meta-llama\/Meta-Llama-3-8B-Instruct -> es, hi
+occiglot\/occiglot-7b-es-en-instruct -> fr, de
+mistralai\/Mistral-7B-Instruct-v0.3 -> en
+
+filename: mushroom.cs-tst.v1.jsonl
+mistralai\/Mistral-7B-Instruct-v0.3 -> en
+meta-llama\/Meta-Llama-3-8B-Instruct -> es, hi
+
+filename: mushroom.eu-tst.v1.jsonl
+meta-llama\/Meta-Llama-3-8B-Instruct -> es, hi
+google\/gemma-7b-it
+
+filename: mushroom.fa-tst.v1.jsonl
+universitytehran\/PersianMind-v1.0
+meta-llama\/Meta-Llama-3.1-8B-Instruct -> es, hi
+meta-llama\/Llama-3.2-3B-Instruct -> es, hi
+CohereForAI\/aya-23-35B
+CohereForAI\/aya-23-8B

@@ -1,0 +1,8 @@
+Prediction File Path: preds_v2/val/logit_threshold_train_consts/mushroom.en-val.v2.jsonl
+IoU: 0.24104839
+Cor: 0.17841746
+------------------------------
+Prediction File Path: preds_v2/val/logit_threshold_train_consts/mushroom.en-val.v2.jsonl
+IoU: 0.22385188
+Cor: 0.10678173
+------------------------------

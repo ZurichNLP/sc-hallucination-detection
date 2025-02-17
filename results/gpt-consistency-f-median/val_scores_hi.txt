@@ -1,0 +1,44 @@
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.53434065
+Cor: 0.49827501
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.53941122
+Cor: 0.50219462
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.53383175
+Cor: 0.50234958
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.54080488
+Cor: 0.51180050
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.53889435
+Cor: 0.50443816
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.55809876
+Cor: 0.54207091
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.55436462
+Cor: 0.53221551
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.55009876
+Cor: 0.52232827
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.55009876
+Cor: 0.52232827
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.53961645
+Cor: 0.51694778
+------------------------------
+Prediction File Path: ./preds_v2/val/gpt-consistency-f-median/mushroom.hi-val.v2.jsonl
+IoU: 0.55571006
+Cor: 0.54694533
+------------------------------

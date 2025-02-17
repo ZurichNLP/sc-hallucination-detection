@@ -1,0 +1,6 @@
+meta-llama/Llama-3.2-3B-Instruct: 68.09, 20
+CohereForAI/aya-23-35B: 36.52, 10
+meta-llama/Meta-Llama-3.1-8B-Instruct: 47.05, 24
+Qwen/Qwen2.5-7B-Instruct: 0.00, 1
+universitytehran/PersianMind-v1.0: 49.23, 38
+CohereForAI/aya-23-8B: 54.36, 7

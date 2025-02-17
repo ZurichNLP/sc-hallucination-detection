@@ -1,0 +1,89 @@
+direct:
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual. You will output the counterfactual spans. Note that the answers can also be fully counterfactual or not at all."
+  user_prompt: "Question: {model_input}. Answer: {model_output}."
+
+direct2:
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual or does not answer the question correctly. You will output the counterfactual and incorrect spans. Note that the answers can also be fully counterfactual/incorrect or not at all."
+  user_prompt: "Question: {model_input}. Answer: {model_output}."
+
+cot:
+  system_prompt: "You will be given a question-answer pair. First, you are going to answer the question yourself. Then you will compare your answer with the provided answer by the user. The provided answer might contain spans that are counterfactual. You will output the counterfactual spans. Note that the answers can also be fully counterfactual or not at all."
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}"
+
+cot2:
+  system_prompt: "You will be given a question-answer pair. First, you are going to answer the question yourself. Then you will compare your answer with the provided answer by the user. The provided answer might contain spans that are counterfactual or do not answer the question. You will output the counterfactual/incorrect spans. Note that the answers can also be fully counterfactual/incorrect or not at all."
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}" 
+
+cot3:
+  system_prompt: "You will be given a question-answer pair. First, you are going to answer the question yourself. Then you will compare your answer with the provided answer by the user. The provided answer might contain spans that are counterfactual. The provided answer can also contain spans that do not answer the question. Compare the provided answer to the question. You will output the counterfactual and incorrect spans from both comparisons. Note that the answers can also be fully counterfactual/incorrect or not at all."
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}" 
+
+two-step:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual. You will also be given an alternative answer. Based on this alternative answer, output the spans from the answer of the initial question-answer pair that are counterfactual. Note that the answers can also be fully counterfactual or not at all."
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}\nAlternative Answer: {alternative_answer}."
+
+two-step-multi:
+  user_prompt_altanswer: "Answer the following question with five possible answers: {model_input}."
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual. You will also be given multiple other possible answers. Based on these other possible answers, output the spans from the answer of the initial question-answer pair that are counterfactual. Note that the answers can also be fully counterfactual or not at all."
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}\nOther possible answers: {alternative_answer}."
+
+two-step-comp:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given two texts. The first text might contain counterfactual spans. You will also be given a second text, which contains the truth. Your task is to output spans from the first text that are not truthful according to the second text. Note that the first text can also be fully counterfactual or not at all."
+  user_prompt: "First text: {model_output}\nSecond text: {alternative_answer}"
+
+two-step-comp-switch:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given two texts. The second text might contain counterfactual spans. The first text contains the truth. Your task is to output spans from the second text that are not truthful according to the second text. Note that the second text can be fully counterfactual or not at all."
+  user_prompt: "First text: {alternative_answer}\nSecond text: {model_output}"
+
+direct_cd:
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual. You output a copy of all words in the given answer that are part of a counterfactual sequence in the required JSON format. Note that the answers can also be fully counterfactual or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon and Berlin.\nYour Output:[{'model_output_word': 'Lyon'}, {'model_output_word': 'and'}, {'model_output_word': 'Berlin'}]"
+  user_prompt: "Question: {model_input}. Answer: {model_output}."
+
+direct2_cd:
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual or does not answer the question correctly. You output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the answers can also be fully counterfactual/incorrect or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon.\nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "Question: {model_input}. Answer: {model_output}."
+
+cot_cd:
+  system_prompt: "You will be given a question-answer pair. First, you are going to answer the question yourself. Then you will compare your answer with the provided answer by the user. You output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the answers can also be fully counterfactual or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon.\nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}"
+
+cot2_cd:
+  system_prompt: "You will be given a question-answer pair. First, you are going to answer the question yourself. Then you will compare your answer with the provided answer by the user. The provided answer might contain spans that are counterfactual or do not answer the question. You output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the answers can also be fully counterfactual/incorrect or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon.\nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}" 
+
+cot3_cd:
+  system_prompt: "You will be given a question-answer pair. First, you are going to answer the question yourself. Then you will compare your answer with the provided answer by the user. The provided answer might contain spans that are counterfactual. The provided answer can also contain spans that do not answer the question. Compare the provided answer to the question. You output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the answers can also be fully counterfactual/incorrect or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon.\nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}" 
+
+two-step_cd:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual. You will also be given an alternative answer. Based on this alternative answer, you output a copy of all words in the given first answer that are part of a counterfactual sequence in the required JSON format. Note that the answers can also be fully counterfactual or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon and Berlin. Alternative Answer: The capital of France is Paris.\nYour Output:[{'model_output_word': 'Lyon'}, {'model_output_word': 'and'}, {'model_output_word': 'Berlin'}]"
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}\nAlternative Answer: {alternative_answer}."
+
+two-step-multi_cd:
+  user_prompt_altanswer: "Answer the following question with five possible answers: {model_input}."
+  system_prompt: "You will be given a question-answer pair. The answer might contain spans that are counterfactual. You will also be given multiple other possible answers. Based on these other possible answers, you output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the answers can also be fully counterfactual or not at all.\nExample: Question: What is the capital of France? Answer: The capital of France is Lyon. Other possible answers: The capital of France is Paris. Paris is the capital of France. Actually, Paris is the capital of France. Not Lyon, but Paris. Paris, the city of love, is the capital. \nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "Question: {model_input}\nAnswer: {model_output}\nOther possible answers: {alternative_answer}."
+
+two-step-comp_cd:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given two texts. The first text might contain counterfactual spans. You will also be given a second text, which contains the truth. You output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the first text can also be fully counterfactual or not at all.\nExample: First text: The capital of France is Lyon. Second text: The capital of France is Paris.\nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "First text: {model_output}\nSecond text: {alternative_answer}"
+
+two-step-comp-switch_cd:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given two texts. The second text might contain counterfactual spans. The first text contains the truth. You output a copy of all character spans in the answer and label them character spans as counterfactual (True) or factual (False). Note that the second text can be fully counterfactual or not at all.\nExample: First text: The capital of France is Paris. Second text: The capital of France is Lyon. \nYour Output:[('The capital of France is ', False), ('Lyon', True), ('.', False)]"
+  user_prompt: "First text: {alternative_answer}\nSecond text: {model_output}"
+
+ref_comparison:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given two texts. Compare the first text to the second text. Output the spans from the first text that are not truthful according to the second text."
+  user_prompt: "First text: {model_output}\nSecond text: {alternative_answer}"
+
+ref_comparison_switch:
+  user_prompt_altanswer: "Answer the following question: {model_input}."
+  system_prompt: "You will be given two texts. Compare the first text to the second text. Output the spans from the second text that are not truthful according to the first text."
+  user_prompt: "First text: {alternative_answer}\nSecond text: {model_output}"

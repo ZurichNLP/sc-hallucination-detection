@@ -1,0 +1,1 @@
+Warning: Span 'شاه عباس اول' not found in original text starting from position 83Warning: Span 'نزدیک شهر شوش' not found in original text starting from position 26Warning: Span 'سال 1307' not found in original text starting from position 60

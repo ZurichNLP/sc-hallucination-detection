@@ -1,0 +1,5 @@
+baichuan-inc/Baichuan2-13B-Chat: 48.18, 68
+THUDM/chatglm3-6b: 65.66, 1
+internlm/internlm2-chat-7b: 43.48, 30
+Qwen/Qwen1.5-14B-Chat: 42.98, 27
+01-ai/Yi-1.5-9B-Chat: 34.57, 24

@@ -1,0 +1,8 @@
+Prediction File Path: preds_v2/val/no-prompt-prob-diff/mushroom.de-val.v2.jsonl
+IoU: 0.07692308
+Cor: 0.03846154
+------------------------------
+Prediction File Path: preds_v2/val/no-prompt-prob-diff/mushroom.de-val.v2.jsonl
+IoU: 0.23768105
+Cor: 0.14073903
+------------------------------

@@ -1,0 +1,3 @@
+tiiuae/falcon-7b-instruct: 49.93, 47
+togethercomputer/Pythia-Chat-Base-7B: 57.08, 54
+TheBloke/Mistral-7B-Instruct-v0.2-GGUF: 38.50, 53

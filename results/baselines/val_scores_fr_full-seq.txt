@@ -1,0 +1,4 @@
+Prediction File Path: preds_v2/val/full-seq-as-h/mushroom.fr-val.v2.jsonl
+IoU: 0.38461072
+Cor: 0.00000000
+------------------------------

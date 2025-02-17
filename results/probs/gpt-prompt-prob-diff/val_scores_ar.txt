@@ -1,0 +1,4 @@
+Prediction File Path: preds_v2/val/gpt-prompt-prob-diff/mushroom.ar-val.v2.jsonl
+IoU: 0.26239906
+Cor: 0.17607166
+------------------------------

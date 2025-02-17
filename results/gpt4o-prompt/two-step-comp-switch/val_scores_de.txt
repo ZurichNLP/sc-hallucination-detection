@@ -1,0 +1,4 @@
+Prediction File Path: preds_v2/val/gpt4o/two-step-comp-switch/mushroom.de-val.v2.jsonl
+IoU: 0.48329260
+Cor: 0.42609076
+------------------------------

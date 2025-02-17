@@ -1,0 +1,24 @@
+Prediction File Path: preds_v2/val/sc-threshold-f-median/mushroom.ar-val.v2.jsonl
+IoU: 0.40860512
+Cor: 0.35856447
+------------------------------
+Prediction File Path: preds_v2/val/sc-threshold-f-median/mushroom.ar-val.v2.jsonl
+IoU: 0.42090300
+Cor: 0.36366734
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-median/mushroom.ar-val.v2.jsonl
+IoU: 0.43198102
+Cor: 0.38912491
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-median/mushroom.ar-val.v2.jsonl
+IoU: 0.40626683
+Cor: 0.34847128
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-median/mushroom.ar-val.v2.jsonl
+IoU: 0.42688591
+Cor: 0.38012768
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-median/mushroom.ar-val.v2.jsonl
+IoU: 0.42688591
+Cor: 0.38012768
+------------------------------

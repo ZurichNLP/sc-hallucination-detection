@@ -1,0 +1,2 @@
+mistralai/Mistral-7B-Instruct-v0.3: 34.79, 44
+meta-llama/Meta-Llama-3-8B-Instruct: 27.49, 56

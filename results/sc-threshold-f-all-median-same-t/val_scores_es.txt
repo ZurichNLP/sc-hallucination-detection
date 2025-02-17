@@ -1,0 +1,64 @@
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-all-median-same-t/mushroom.es-val.v2.jsonl
+IoU: 0.17090371
+Cor: 0.24714691
+------------------------------

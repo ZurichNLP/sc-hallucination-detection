@@ -1,0 +1,2 @@
+Finnish-NLP/llama-7b-finnish-instruct-v0.2: 62.78, 84
+LumiOpen/Poro-34B-chat: 56.78, 66

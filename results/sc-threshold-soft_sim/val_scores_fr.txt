@@ -1,0 +1,12 @@
+Prediction File Path: ./preds_v2/val/sc-threshold-soft_sim/mushroom.fr-val.v2.jsonl
+IoU: 0.36589527
+Cor: 0.27212360
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-soft_sim/mushroom.fr-val.v2.jsonl
+IoU: 0.36589527
+Cor: 0.27212360
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-soft_sim/mushroom.fr-val.v2.jsonl
+IoU: 0.36722757
+Cor: 0.17452286
+------------------------------

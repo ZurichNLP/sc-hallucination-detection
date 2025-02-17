@@ -1,0 +1,52 @@
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.34692305
+Cor: 0.15618075
+
+without duplicate alignments (adjusted in get alignments file)
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.35024996
+Cor: 0.14835161
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.35024996
+Cor: 0.14835161
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.34740215
+Cor: 0.14602800
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.35024996
+Cor: 0.14835161 
+
+with duplicate alignments (adjusted in get alignments file); threshold based on val set and tested on val set;
+alignment method "a"
+------------------------------
+
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.37717219
+Cor: 0.30244485
+alignment method "a", token-level labeling, threshold chosen based on test set
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.40780106
+Cor: 0.30994352
+alignment method "a", word-level labeling, threshold chosen based on test set
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.40780106
+Cor: 0.30994352
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.40780106
+Cor: 0.30994352
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.40780106
+Cor: 0.30994352
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold/mushroom.de-val.v2.jsonl
+IoU: 0.40780106
+Cor: 0.30994352
+------------------------------

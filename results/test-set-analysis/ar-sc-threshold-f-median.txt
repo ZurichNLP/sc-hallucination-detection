@@ -1,0 +1,3 @@
+SeaLLMs/SeaLLM-7B-v2.5: 38.13, 86
+arcee-ai/Arcee-Spark: 29.15, 13
+openchat/openchat-3.5-0106-gemma: 35.35, 51

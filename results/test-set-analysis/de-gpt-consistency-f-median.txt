@@ -1,0 +1,3 @@
+TheBloke/SauerkrautLM-7B-v1-GGUF: 36.96, 28
+malteos/bloom-6b4-clp-german-oasst-v0.1: 46.04, 75
+occiglot/occiglot-7b-de-en-instruct: 39.22, 47

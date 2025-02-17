@@ -1,0 +1,3 @@
+LumiOpen/Viking-33B: 60.79, 7
+AI-Sweden-Models/gpt-sw3-6.7b-v2-instruct-gguf: 42.05, 112
+LumiOpen/Poro-34B-chat: 60.87, 28

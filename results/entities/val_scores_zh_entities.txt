@@ -1,0 +1,4 @@
+Prediction File Path: preds_v2/val/entities/mushroom.zh-val.v2.jsonl
+IoU: 0.20419624
+Cor: 0.17169124
+------------------------------

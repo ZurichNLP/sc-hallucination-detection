@@ -1,0 +1,2 @@
+meta-llama/Meta-Llama-3-8B-Instruct: 38.40, 56
+mistralai/Mistral-7B-Instruct-v0.3: 40.10, 44

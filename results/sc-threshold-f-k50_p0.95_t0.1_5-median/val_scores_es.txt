@@ -1,0 +1,8 @@
+Prediction File Path: ./preds_v2/val/sc-threshold-f-k50_p0.95_t0.1_5-median/mushroom.es-val.v2.jsonl
+IoU: 0.15999834
+Cor: 0.18313906
+------------------------------
+Prediction File Path: ./preds_v2/val/sc-threshold-f-k50_p0.95_t0.1_5-median/mushroom.es-val.v2.jsonl
+IoU: 0.14826450
+Cor: 0.18748135
+------------------------------
