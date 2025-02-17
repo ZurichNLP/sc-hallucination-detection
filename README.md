@@ -94,8 +94,6 @@ for split in test val; do
 done
 ```
 
-```
-
 Add the --less-alt-res-params flag to only include a certain number of alternative responses per sampling method (e.g.: 5 or 10) and sampling method itself (e.g.: k50_p0.90_t0.1 or all). 
 
 
