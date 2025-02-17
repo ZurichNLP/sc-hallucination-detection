@@ -5,7 +5,7 @@ This repository contains the code accompanying our submission to the SemEval-202
 
 ## GPT4o-mini Zero-Shot Baseline
 
-To perform the zero-shot predictions for all languages and teh chosen prompts, run the following command:
+To perform the zero-shot predictions for all languages and the chosen prompts, run the following command:
 
 ```
 python scripts/get_gpt4o_predictions.py direct two-step-multi
@@ -21,12 +21,12 @@ for lang in de en fr ar zh fi hi it es sv fa ca eu cs; do
 done
 ```
 
-Further prompts are found and can be added in the `prompts.yaml` file.
+Further prompts are found in and can be added to the `prompts.yaml` file.
 
 
 ## Token-Level GPT4o-Consistency
 
-For each model response, 20 more responses for each sample configuration are generated:
+For each model response, 20 more responses for each sample configuration are generated using gpt:
 
 ```
 for split in test [val/test_jan25]; do
@@ -56,7 +56,7 @@ for split in test val; do
 done
 ```
 
-Inspect the token consistency scores of the hallucinated spans vs the not-hallucinated spans in the calibration set. The threshold is chosen by maximizing the F1 score. This step is skipped for the unlabelled test set.
+Inspect the token consistency scores of the hallucinated spans vs. the not-hallucinated spans in the calibration set. The threshold is chosen by maximizing the F1 score. This step is skipped for the unlabelled test set.
 
 ```
 python scripts/analyze_token_sims.py [file to test set sim avgs] [--lang XY] [--fewer-altres]
